@@ -22,7 +22,7 @@ DISPLAY(): Displays all elements present in the stack.
 
 Stack overflow and underflow -
 
-Stack Overflow occurs when an element is inserted into a full stack.
+Stack Overflow occurs when an element id into a full stack.
 
 Stack Underflow occurs when an element is removed from an empty stack.
 
